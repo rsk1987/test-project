@@ -27,26 +27,7 @@
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - DP World Men's U19 Asia Cup 2025"
         },
-        {
-            "event_category": "Sport",
-            "isLive": false,
-            "contentId": 1090495939,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE SNME - John Cena's Final Match"
-        },
 
-
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090496316,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011940/1764578169425579_NZvsWI2025_3rd_test_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - West Indies Tour of New Zealand 2025"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
