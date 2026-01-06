@@ -1,1 +1,28 @@
 
+[
+  {
+  "name": "Sony Pix 1",
+  "logo": "https:\/\/assets-prod.services.toffeelive.com\/f_png,w_300,q_85\/Ly6C-JQBv9knK3AHOjXt\/posters\/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",
+  "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62ba60f059624e000781c436/1539795/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-32637900-11c0-48fc-9322-b49c1af1a556&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https://www.samsung.com/us/appstore/app.do?appId=G15147002586&samsung_app_name=Samsung TV Plus&serverSideAds=true&appName=samsungtvplus&deviceId=dedebd2b-bfcd-4358-8e89-8bcdd45874c9&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true&us_privacy=1YNY"
+},
+  {
+  "name": "Sony Ten 2",
+  "logo": "https:\/\/assets-prod.services.toffeelive.com\/f_png,w_300,q_85\/Ly6C-JQBv9knK3AHOjXt\/posters\/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",
+  "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+},
+  {
+  "name": "Sony Ten 3",
+  "logo": "https:\/\/assets-prod.services.toffeelive.com\/f_png,w_300,q_85\/Ly6C-JQBv9knK3AHOjXt\/posters\/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",
+  "url": "https://hls-proxy-test.pages.dev?url=https://xfireflix.fun/file/opplex/playlist.m3u?id=167567&e=.m3u8"
+},
+  {
+  "name": "Sony Ten 4",
+  "logo": "https:\/\/assets-prod.services.toffeelive.com\/f_png,w_300,q_85\/Ly6C-JQBv9knK3AHOjXt\/posters\/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",
+  "url": "https://hls-ts-proxy.malishsarkar.workers.dev/?url=https://xfireflix.fun/file/opplex/playlist.m3u?id=167567&e=.m3u8"
+},
+  {
+  "name": "Sony Ten 5",
+  "logo": "https:\/\/assets-prod.services.toffeelive.com\/f_png,w_300,q_85\/Ly6C-JQBv9knK3AHOjXt\/posters\/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",
+  "url": "https://iptv-proxy.malishsarkar.workers.dev/?url=https://xfireflix.fun/file/opplex/playlist.m3u?id=167567&e=.m3u8"
+}
+]
