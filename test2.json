@@ -1,1 +1,25 @@
 
+[
+  {
+    "id": "144",
+    "name": "Colors HD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",
+    "group": "Entertainment",
+    "language": "Hindi",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_MOB/WDVLive/index.mpd",
+    "keyId": "d80955a9801d8419a9152bb4d21e0635",
+    "key": "7e8f500cef51595f3d43acafab1a8fb4",
+    "cookie": ""
+  },  
+  {
+    "id": "143",
+    "name": "CNBC Tv18 Prime HD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png",
+    "group": "Business News",
+    "language": "English",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/CNBC_Tv18_Prime_HD_MOB/WDVLive/index.mpd",
+    "keyId": "810f0869e10c537891203cc70315dd6d",
+    "key": "b8f7d22abf86cf12444a848ed5dbec13",
+    "cookie": ""
+  },
+]
