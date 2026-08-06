@@ -1,1 +1,11 @@
 
+{
+  "keys": [
+    {
+      "kty": "oct",
+      "kid": "<Base64URL-encoded KID>",
+      "k": "<Base64URL-encoded KEY>"
+    }
+  ],
+  "type": "temporary"
+}
