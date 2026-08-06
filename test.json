@@ -3,8 +3,8 @@
   "keys": [
     {
       "kty": "oct",
-      "kid": "<Base64URL-encoded KID>",
-      "k": "<Base64URL-encoded KEY>"
+      "kid": "XWxkfNG1ZVC9NDSbaOyMgg",
+      "k": "CflSeAulswvCIkOaqjrAmw"
     }
   ],
   "type": "temporary"
