@@ -10,27 +10,4 @@
     "key":   "bb722190f2bb446391020411a7d0828b" ,
 
   },  
-  {
-    "channel_name": "Disney International HD",
-    "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_International_HD.png",
-    "channel_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd",
-    "group_title": "Kids",
-    "language": "Hindi",
-    "clearkey":{
-        "keyId": "f56beaac9f124616872c741c9ce4fa4e",  
-        "key":   "5d40a903238f4ad98abbed1877d4e3d1" ,
-}
-  },
-  {
-        "group_title": " Business News",
-        "channel_name": "CNBC TV18 Prime",
-        "channel_logo": "https:\/\/live.dinesh29.com.np\/logos\/jiotvplus\/cnbctv18prime.png",
-        "channel_url": "https://universal-proxy.malishsarkar.workers.dev/?url=http://origin.thetvapp.to/hls/NBA03/mono.m3u8"
-  },
-  {
-        "group_title": " Entertainment",
-        "channel_name": "Colors HD",
-        "channel_logo": "https:\/\/live.dinesh29.com.np\/logos\/jiotvplus\/colorshd.png",
-        "channel_url": "https:\/\/live.dinesh29.com.np\/stream\/jiotvplus\/colorshd\/master.m3u8"
-    }
-    ]
+]
